@@ -1,0 +1,122 @@
+body {
+  margin: 0;
+  font-size: 1rem;
+  font-family: 'Karla', sans-serif;
+  background-color: #f8f8ff;
+  color: #ffffff;
+}
+
+h1 {
+  color: #2ab2af;
+}
+
+h2 {
+
+}
+
+p {
+
+}
+
+ul {
+
+}
+
+ul {
+  list-style-type: none;
+}
+
+.day {
+  color: #c0df34;
+}
+
+.top-copy {
+  color: #98a6bd;
+  font-weight: bold;
+}
+
+.top-section {
+  width: 700px;
+  height: 500px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  box-shadow: 0 0 1em #c0c0c0;
+  margin: 150px auto 0 auto;
+}
+
+.inner-top {
+  height: 220px;
+  padding: 20px 0 0 30px;
+}
+
+.bottom-left {
+  width: 320px;
+  height: 280px;
+  background-color: #2ab2af;
+  position: absolute;
+  padding: 20px 0 0 30px;
+
+}
+
+.bottom-right {
+  width: 320px;
+  height: 280px;
+  background-color: #66BFBF;
+  position: absolute;
+  margin: 0 0 0 350px;
+  padding: 20px 0 0 30px;
+
+}
+
+.signup-btn {}
+
+.dollar {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.per-month {
+  position: absolute;
+  width: 100px;
+  height: 40px;
+  padding: 8px 0 0 0;
+  text-align: center;
+}
+
+.list {
+  line-height: 0.4;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.signup-btn {
+   background: #C0DF34;
+   background-image: -webkit-linear-gradient(top, #C0DF34, #C0DF34);
+   background-image: -moz-linear-gradient(top, #C0DF34, #C0DF34);
+   background-image: -ms-linear-gradient(top, #C0DF34, #C0DF34);
+   background-image: -o-linear-gradient(top, #C0DF34, #C0DF34);
+   background-image: -webkit-gradient(to bottom, #C0DF34, #C0DF34);
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   font-family: 'Karla', sans-serif;
+   font-size: 16px;
+   font-weight: 100;
+   padding: 20px;
+   /*-webkit-box-shadow: 1px 1px 5px 0 #000000;
+   -moz-box-shadow: 1px 1px 5px 0 #000000;
+   box-shadow: 1px 1px 5px 0 #000000;*/
+   border: solid #C0DF34 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
